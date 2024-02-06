@@ -30,6 +30,7 @@ public class JwtAuthFilter extends OncePerRequestFilter{//Filter will intercepts
 	protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain)
 			throws ServletException, IOException {
                 System.out.println("This is JwtFilter starts5");
+                System.out.println("This is JwtFilter new version");
 		String authHeader=request.getHeader("Authorization");
 		String token=null;
 		String username=null;
