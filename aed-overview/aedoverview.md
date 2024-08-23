@@ -1,3 +1,3 @@
 # AED Overview
 
-![image](./aed-overview/img/)
+![image](./aed-overview/img/Capture.PNG)
