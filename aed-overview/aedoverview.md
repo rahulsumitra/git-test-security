@@ -1,3 +1,3 @@
 # AED Overview
 
-![image](./git-test-security/aed-overview/img/Capture.PNG)
+![image](./img/Capture.PNG)
